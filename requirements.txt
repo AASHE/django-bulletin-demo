@@ -1,7 +1,7 @@
 Django==1.6.10
 dj_database_url
 -e git+https://github.com/AASHE/django-constant-contact.git#egg=django_constant_contact
--e git+https://github.com/baronvonvaderham/django-bulletin.git#egg=django_bulletin
+-e git+https://github.com/AASHE/django-bulletin.git#egg=django_bulletin
 django-haystack==2.4.0rc1
 django-overextends
 ipython
